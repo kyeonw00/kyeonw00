@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**kyeonw00/kyeonw00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Stay Awhile and Listen
 
 - 🔭 I’m currently working on ...
     - Algorithm Study \[[**algorithm-101**](https://github.com/kyeonw00/algorithm-101)\]
@@ -21,6 +18,3 @@
     - Twitter [@altairkkw](https://twitter.com/altairkkw)
     - RocketPunch [@altairkkw](https://www.rocketpunch.com/@altairkkw)
     - Github [kyeonw00](https://github.com/kyeonw00)
-
-- :dart: Fun Facts: ...
-    - I'm on duty as a Skilled industry personnel(kind of substitute military service system).
