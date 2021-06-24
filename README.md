@@ -5,13 +5,13 @@
 - 🔭 I’m currently working on ...
     - Algorithm Study \[[**algorithm-101**](https://github.com/kyeonw00/algorithm-101)\]
     - Project-E (Personal Action-Adventure development project)
+    - UGUI navigation extention
     
 - :beginner: I'm currently working at ...
     - **Buffstudio Inc.** as a Client Programmer (2017.09 ~ current)
     
 - 🌱 I’m currently learning ...
     - Unreal, Unity, Godot engine
-    - C, Modern C++, C#, Swift, Python
+    - C, Modern C++, C#, Swift
     - Argumented Reality/Virtual Reality
     - Computer Graphics, Physics, and Procedural Generation
-    - Reinforcement learning
