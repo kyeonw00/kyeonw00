@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently working on ...
     - Quater view kinematic character controller  
-    - Algorithm Study \[[**algorithm-101**](https://github.com/kyeonw00/algorithm-101)\]  
-    - Project-E (Personal Action-Adventure development project)  
+    - Elementalist (Personal Action-Adventure development project)  
+    - Blue Wednesday (Story-telling adventure, at Buffstudio Inc.)
     - UGUI navigation extension  
     
 - :beginner: I'm currently working at ...  
-    - **Buffstudio Inc.** as a Client Programmer (2017.09 ~ current)  
+    - **Buffstudio Inc.** as a Programmer (2017.09 ~ current)  
     
 - 🌱 I’m currently learning ...  
     - Unreal, Unity, Godot engine  
