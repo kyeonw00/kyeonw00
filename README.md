@@ -9,8 +9,8 @@
 Hi, I'm Altair. I'm currently working at Buffstudio Inc. as a programmer. I'm working on developing "Blue Wednesday", a story-based adventure game, as a game system developer.
 
 - 🔭 I’m currently working on ...
-    - ```Blue Wednesday``` (Story-telling adventure, at Buffstudio Inc.)
-    - ```Quater view kinematic character controller```  
+    - ```Blue Wednesday``` (Story-telling adventure, at Buffstudio Inc.)  
+    - ```QuaterView kinematic character controller```  
     - ```Elementalist``` (Personal Action-Adventure development project)  
     
 - :briefcase: I'm currently working at ...  
